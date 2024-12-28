@@ -1,6 +1,6 @@
 # TicTacToe Project
 ## Overview
-- This is a simple project following the logic of the popular board game tictactoe, The aim of this project was to impliment the concepts i have learned as i constinue to study java. The concepts of classes, objects,
+- This is a simple project following the logic of the popular board game tictactoe, The aim of this project was to impliment the concepts i have learned as i continue to study java. The concepts of classes, objects,
   methods, constructor, inheritance, error handling, interfaces, algorithms and data structures.
 - This was test my level of understanding and to see how i could use each of this concepts in a single project.
 - Although my implementation of this concepts are not at their full potential yet i was glad with the results i got. Because it showed me my level of improvement as well as the gaps in my knowladge.
